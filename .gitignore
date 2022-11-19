@@ -1,0 +1,6 @@
+.vscode/settings.json
+python_pep8/__pycache__/constantes.cpython-310.pyc
+python_pep8/__pycache__/fabrica_fila.cpython-310.pyc
+python_pep8/__pycache__/fila_base.cpython-310.pyc
+python_pep8/__pycache__/fila_normal.cpython-310.pyc
+python_pep8/__pycache__/fila_prioritaria.cpython-310.pyc
