@@ -2,7 +2,7 @@ import abc
 from typing import List
 
 from constantes import TAMANHO_PADRAO_MAXIMO, TAMANHO_PADRAO_MINIMO
-
+# Template method
 
 class  FilaBase(metaclass=abc.ABCMeta):
     codigo: int = 0 # Type hints
