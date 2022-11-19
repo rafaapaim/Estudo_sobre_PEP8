@@ -1,3 +1,4 @@
+.mypy_cache
 .vscode/settings.json
 python_pep8/__pycache__/constantes.cpython-310.pyc
 python_pep8/__pycache__/fabrica_fila.cpython-310.pyc
